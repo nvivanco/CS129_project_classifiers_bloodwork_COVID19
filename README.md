@@ -19,3 +19,5 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019
 2) Horton, J. (2020, June 5). Coronavirus: What are the numbers out of Latin America? BBC News. Retrieved from
 https://www.bbc.com/news/world-latin-america-52711458
 3) https://www.kaggle.com/einsteindata4u/covid19/data
+
+This project was created for Stanford's CS129 course https://web.stanford.edu/class/cs129/ in collaboration with Jiaying Toh.
